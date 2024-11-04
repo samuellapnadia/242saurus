@@ -2,11 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://samuellapnadia.github.io/242saurus/blog/</id>
     <title>242saurus Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2024-10-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://samuellapnadia.github.io/242saurus/blog/"/>
     <subtitle>242saurus Blog</subtitle>
     <icon>https://samuellapnadia.github.io/242saurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pop Quiz]]></title>
+        <id>https://samuellapnadia.github.io/242saurus/blog/POP-QUIZ/</id>
+        <link href="https://samuellapnadia.github.io/242saurus/blog/POP-QUIZ/"/>
+        <updated>2024-10-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is our POP QUIZ posting!]]></summary>
+        <content type="html"><![CDATA[<p>This is our POP QUIZ posting!</p>
+<p>-- S.Putri, K. Salsalina and K. Soraya.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>]]></content>
+        <author>
+            <name>Samuella Putri Nadia Pauntu</name>
+            <uri>https://github.com/samuellapnadia</uri>
+        </author>
+        <author>
+            <name>Kezia Salsalina Agtyra Sebayang</name>
+            <uri>https://github.com/agtyra</uri>
+        </author>
+        <author>
+            <name>Kayla Soraya Djakaria</name>
+            <uri>https://github.com/luticakep</uri>
+        </author>
+        <category label="POPQUIZ" term="POPQUIZ"/>
+        <category label="WEEK07" term="WEEK07"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://samuellapnadia.github.io/242saurus/blog/welcome/</id>
